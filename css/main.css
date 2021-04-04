@@ -81,7 +81,8 @@ body {
 }
 
 .artist {
-    max-width: 300px;
+    max-width: 18.75rem;
+    /* 300px */
     color: #808782;
     font-size: 1em;
 }
@@ -89,6 +90,8 @@ body {
 .song-timeline {
     margin: 2.2rem;
     /* 35px */
+    max-width: 18.75rem;
+    /* 300px */
     display: flex;
     flex-flow: row nowrap;
     align-items: center;
@@ -107,6 +110,8 @@ body {
 .bottom-controls {
     margin: 2.2rem 2.2rem 0 2.2rem;
     /* 35px except for bottom */
+    max-width: 18.75rem;
+    /* 300px */
     display: flex;
     flex-flow: row nowrap;
     align-items: center;

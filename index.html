@@ -3,17 +3,16 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <title>Music Player</title>
 
-    <meta name="description" content="A minimal and simple music player UI design">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Annie Wu">
+    <meta name="description" content="A minimal and simple music player UI design">
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./css/main.css">
+    <link href="./css/main.css" rel="stylesheet" type="text/css">
 
 </head>
 
@@ -46,10 +45,12 @@
             </div>
             <div class="song-timeline">
                 <span class="time-stamp">0:00</span>
-                <object data="./img/sound-wave.svg" type="image/svg+xml">
-                    <!-- Fallback img -->
-                    <img src="./img/sound-wave.svg" alt="sound wave">
-                </object>
+                <div>
+                    <object data="./img/sound-wave.svg" type="image/svg+xml">
+                        <!-- Fallback img -->
+                        <img src="./img/sound-wave.svg" alt="sound wave">
+                    </object>
+                </div>
                 <span class="time-stamp">3:53</span>
             </div>
             <div class="bottom-controls">
