@@ -1,6 +1,8 @@
 # Music Player
 
-This is a minimal and simple music player UI design.
+#### This is a minimal and simple music player UI design.
+
+**LIVE DEMO** - [musicplayer.anniew.xyz](https://musicplayer.anniew.xyz/)
 
 <p align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
@@ -11,9 +13,6 @@ This is a minimal and simple music player UI design.
 <p align="center">
   <a href=""><img src="./img/music-player-preview.png" alt="music player preview"></a>
 </p>
-
-## Live Demo
-- 💙 [Live Demo](https://musicplayer.anniew.xyz/)
 
 ### Designed With
 - 💜 [Figma](https://www.figma.com/)
