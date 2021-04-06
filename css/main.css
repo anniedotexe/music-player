@@ -30,14 +30,14 @@ body {
     /* 640px */
     width: 22.5rem;
     /* 360px */
-    border-radius: 1.5rem;
-    /* 24px */
+    border-radius: 1.25rem;
+    /* 20px */
     overflow: hidden;
 }
 
 .top-controls {
-    margin: 0 2.2rem 2.2rem 2.2rem;
-    /* 35px except top*/
+    margin: 0 1.875rem;
+    /* 30px */
     display: flex;
     flex-flow: row nowrap;
     align-items: center;
@@ -46,11 +46,12 @@ body {
 
 .top-controls div {
     margin: 0;
+    padding: 5px;
 }
 
 .album-cover {
-    margin: 2.2rem auto;
-    /* 35px */
+    margin: 1.75rem auto;
+    /* 28px */
     width: 15rem;
     /* 240px */
     height: 15rem;
@@ -68,8 +69,8 @@ body {
 }
 
 .song-info {
-    margin: 2.2rem 0;
-    /* 35px */
+    margin: 1.75rem auto 1.25rem auto;
+    /* 28px 20px*/
 }
 
 .title {
@@ -88,8 +89,8 @@ body {
 }
 
 .song-timeline {
-    margin: 2.2rem;
-    /* 35px */
+    margin: 1.25rem auto 0 auto;
+    /* 20px */
     max-width: 18.75rem;
     /* 300px */
     display: flex;
@@ -100,6 +101,7 @@ body {
 
 .song-timeline div {
     margin: 0;
+    padding: 5px;
 }
 
 .time-stamp {
@@ -108,8 +110,8 @@ body {
 }
 
 .bottom-controls {
-    margin: 2.2rem 2.2rem 0 2.2rem;
-    /* 35px except for bottom */
+    margin: 1.25rem auto 0 auto;
+    /* 20px */
     max-width: 18.75rem;
     /* 300px */
     display: flex;
@@ -120,4 +122,9 @@ body {
 
 .bottom-controls div {
     margin: 0;
+    padding: 5px;
+}
+
+.active svg path {
+    fill: #CC7E85;
 }
