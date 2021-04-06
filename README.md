@@ -26,6 +26,9 @@
 ### Hosted On
 - 💜 [Netlify](https://www.netlify.com/)
 
+### Hosted On
+- 💙 [Netlify](https://www.netlify.com/)
+
 ---
 
 ### Creator / Maintainer
