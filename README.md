@@ -7,19 +7,24 @@
 <p align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=white"/>
     <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/18f4836a-1ca7-4859-a403-7f68e1a61226/deploy-status"/>
 </p>
 
 <p align="center">
-  <a href=""><img src="./img/music-player-preview.png" alt="music player preview"></a>
+  <a href="https://musicplayer.anniew.xyz/"><img src="./img/music-player-preview.png" alt="music player preview" height="600"></a>
 </p>
 
-### Designed With
+### Designed On
 - 💜 [Figma](https://www.figma.com/)
 
 ### Built With
 - 💙 [HTML5](https://www.w3schools.com/html/)
 - 💜 [CSS3](https://www.w3schools.com/css/)
+- 💙 [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
+
+### Hosted On
+- 💜 [Netlify](https://www.netlify.com/)
 
 ---
 
