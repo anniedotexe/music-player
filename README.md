@@ -23,6 +23,8 @@
 - 💜 [CSS3](https://www.w3schools.com/css/)
 - 💙 [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
 
+Here is my [dev.to blog post](https://dev.to/anniedotexe/simple-music-player-ui-4nn1) about the creation of this project.
+
 ### Hosted On
 - 💜 [Netlify](https://www.netlify.com/)
 
