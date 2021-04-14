@@ -12,8 +12,13 @@
 </p>
 
 <p align="center">
-  <a href="https://musicplayer.anniew.xyz/"><img src="./img/music-player-preview.png" alt="music player preview" height="600"></a>
+  <a href="https://musicplayer.anniew.xyz/"><img src="./img/music-player.gif" alt="music player gif" height="600"></a>
 </p>
+
+### Functionality
+- Click on heart, repeat, shuffle, and play/pause button
+- Drag slider on song timeline
+- Play music (wip - slider does not update in real time for now)
 
 ### Designed On
 - 💜 [Figma](https://www.figma.com/)
