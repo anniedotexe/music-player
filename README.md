@@ -17,14 +17,17 @@
 </p>
 
 ### Functionality
+
 - Click on heart, repeat, shuffle, and play/pause button
 - Drag slider on song timeline
 - Play music (wip - slider does not update in real time for now)
 
 ### Designed On
+
 - 💜 [Figma](https://www.figma.com/)
 
 ### Built With
+
 - 💙 [HTML5](https://www.w3schools.com/html/)
 - 💜 [CSS3](https://www.w3schools.com/css/)
 - 💙 [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
@@ -32,7 +35,24 @@
 Here is my [dev.to blog post](https://dev.to/anniedotexe/simple-music-player-ui-4nn1) about the creation of this project.
 
 ### Hosted On
+
 - 💜 [Netlify](https://www.netlify.com/)
+
+---
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
+
+### How To Contribute
+
+1. Fork the repository to your own Github account.
+2. Clone the project to your machine.
+3. Create a branch locally with a succinct but descriptive name.
+4. Commit changes to the branch.
+5. Following any formatting and testing guidelines specific to this repo.
+6. Push changes to your fork.
+7. Open a Pull Request in my repository.
 
 ---
 
